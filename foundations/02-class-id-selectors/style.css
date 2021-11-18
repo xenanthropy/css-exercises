@@ -11,3 +11,9 @@ p {
 .coolerpclass {
     font-size: 24px;
 }
+
+#anotherID {
+    background-color: rgb(78,255,56);
+    font-size: 24px;
+    font-weight: bold;
+}
